@@ -1,2 +1,2 @@
 # cctr-issues
- Choo-Choo! Train Rides! issue tracker
+ Choo-Choo! The Train Rides! issue tracker
